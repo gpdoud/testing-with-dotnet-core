@@ -6,15 +6,15 @@
 <script type="text/javascript">
 $().ready(function() {
 
-	$.get('http://localhost:60095/api/values').done(function(resp) {
+	$.get('http://localhost:60096/api/values').done(function(resp) {
 		console.log('get-list', resp);
 	});
 
-	$.get('http://localhost:60095/api/values/5').done(function(resp) {
+	$.get('http://localhost:60096/api/values/5').done(function(resp) {
 		console.log('get-id', resp);
 	});
 
-	$.post('http://localhost:60095/api/values', 'value1')
+	$.post('http://localhost:60096/api/values', 'value1')
 		.done(function(resp) {
 			console.log(resp);
 		});

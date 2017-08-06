@@ -1,0 +1,9 @@
+C:\repos\testing-with-dotnet-core\WebApiWithDotNetCore\bin\Debug\netcoreapp1.1\WebApiWithDotNetCore.deps.json
+C:\repos\testing-with-dotnet-core\WebApiWithDotNetCore\bin\Debug\netcoreapp1.1\WebApiWithDotNetCore.runtimeconfig.json
+C:\repos\testing-with-dotnet-core\WebApiWithDotNetCore\bin\Debug\netcoreapp1.1\WebApiWithDotNetCore.runtimeconfig.dev.json
+C:\repos\testing-with-dotnet-core\WebApiWithDotNetCore\bin\Debug\netcoreapp1.1\WebApiWithDotNetCore.dll
+C:\repos\testing-with-dotnet-core\WebApiWithDotNetCore\bin\Debug\netcoreapp1.1\WebApiWithDotNetCore.pdb
+C:\repos\testing-with-dotnet-core\WebApiWithDotNetCore\obj\Debug\netcoreapp1.1\WebApiWithDotNetCore.csprojResolveAssemblyReference.cache
+C:\repos\testing-with-dotnet-core\WebApiWithDotNetCore\obj\Debug\netcoreapp1.1\WebApiWithDotNetCore.AssemblyInfo.cs
+C:\repos\testing-with-dotnet-core\WebApiWithDotNetCore\obj\Debug\netcoreapp1.1\WebApiWithDotNetCore.dll
+C:\repos\testing-with-dotnet-core\WebApiWithDotNetCore\obj\Debug\netcoreapp1.1\WebApiWithDotNetCore.pdb

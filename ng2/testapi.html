@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang='en'>
+<head><title></title>
+<!-- jQuery -->
+<script src="http://code.jquery.com/jquery-3.2.1.min.js" type="text/javascript"></script></head>
+<script type="text/javascript">
+$().ready(function() {
+
+	$.get('http://localhost:60095/api/values').done(function(resp) {
+		console.log('get-list', resp);
+	});
+
+	$.get('http://localhost:60095/api/values/5').done(function(resp) {
+		console.log('get-id', resp);
+	});
+
+	$.post('http://localhost:60095/api/values', 'value1')
+		.done(function(resp) {
+			console.log(resp);
+		});
+
+	// $.put('http://localhost:60095/api/values/5', 'value1').done(function() {
+	// 	console.log('put success');
+	// });
+
+	// $.delete('http://localhost:60095/api/values/5').done(function() {
+	// 	console.log('delete success');
+	// });
+})
+</script>
+<body>
+</body>
+</html>
